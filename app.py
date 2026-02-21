@@ -1,5 +1,5 @@
 
-print('Hello, world! Bienvenue à tous les collaborateurs !')
+print('Message de l\'Etudiant B : C\'est moi qui contrôle cette ligne !')
 print('Fonctionnalité de login ajoutée par Etudiant A.')
 print('Fonctionnalité de tableau de bord ajoutée par Etudiant B.')
 print('Bienvenue dans notre application collaborative !')
